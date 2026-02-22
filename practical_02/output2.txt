@@ -1,0 +1,7 @@
+Enter your name : ritu
+Enter marks of English : 89
+Enter marks of math 90
+Total marks : 179
+Average marks of ritu is : 89
+
+=== Code Execution Successful ===
