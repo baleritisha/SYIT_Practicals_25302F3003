@@ -1,0 +1,9 @@
+Enter value for a : 
+45
+Enter value for b : 
+45
+Enter value for c : 
+78
+Enter value for d : 
+89
+Result of expession a + b * c % d : 84
